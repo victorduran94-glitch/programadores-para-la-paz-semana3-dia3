@@ -28,11 +28,11 @@ Respuesta: Es un ciclo cuya condición nunca se vuelve falsa, por lo que el prog
 
 6. ¿Qué hace el comando npm run practicar?
 
-Respuesta: 
+Respuesta:  Ejecuta un script personalizado llamado "practicar" que está definido en el archivo package.json del proyecto. 
 
 7. ¿Dónde está definido el comando practicar?
 
-Respuesta:
+Respuesta: Ejecuta un script personalizado llamado "practicar" que está definido en el archivo package.json del proyecto. 
 
 8. ¿Qué diferencia hay entre node archivo.js y npm run practicar?
 
