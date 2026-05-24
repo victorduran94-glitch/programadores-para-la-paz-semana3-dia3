@@ -1,8 +1,8 @@
 Reflexión sobre seguimiento comunitario – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Victor Manuel Duran Blanco
+Fecha: 24/05/2026
+Nombre de la rama: Victor_Duran
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - prevención de desinformación
 - responsabilidad digital
 
-Respuesta:
+Respuesta:Una comunidad necesita repetir procesos de revisión, seguimiento y verificación para tomar mejores decisiones porque la información y las circunstancias cambian constantemente, y lo que era cierto ayer puede no serlo hoy.
+La revisión de información permite filtrar noticias falsas o datos desactualizados, evitando que la comunidad actúe sobre bases incorrectas que podrían generar daños o malentendidos.
+El seguimiento ciudadano garantiza que las decisiones tomadas se cumplan y que quienes las ejecutan rindan cuentas, fortaleciendo así la confianza comunitaria en las instituciones y en los propios vecinos.
+La transparencia en estos procesos hace que cualquier persona pueda acceder a la información y entender cómo se llegó a una decisión, lo que reduce sospechas y fomenta la participación sostenida.
+Además, la prevención de desinformación es más efectiva cuando se aplica de manera continua, porque los bulos y las noticias engañosas no desaparecen con una sola revisión, sino que reaparecen una y otra vez.
+La responsabilidad digital implica que cada miembro de la comunidad se comprometa a verificar antes de compartir y a participar activamente en los mecanismos de control, porque una comunidad informada y vigilante es más difícil de manipular.
+Por todo esto, repetir estos procesos no es una pérdida de tiempo, sino una inversión en decisiones más justas, confiables y sostenibles para toda la comunidad.
