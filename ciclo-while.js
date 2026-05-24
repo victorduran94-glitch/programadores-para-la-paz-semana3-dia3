@@ -1,12 +1,11 @@
-let intento = 1
-const maximoIntentos = 3
+let propuesta = 1
+const totalPropuestas = 8
 
-console.log("Práctica inicial con while")
-console.log("Vamos a repetir un proceso mientras el intento sea menor o igual al máximo.")
+console.log("Conteo de propuestas comunitarias")
 
-while (intento <= maximoIntentos) {
-  console.log("Intento de revisión número:", intento)
-  intento = intento + 1
+while (propuesta <= totalPropuestas) {
+  console.log("Revisando propuesta número:", propuesta)
+  propuesta = propuesta + 1
 }
 
-console.log("Proceso de revisión finalizado.")
+console.log("Todas las propuestas han sido revisadas.")
